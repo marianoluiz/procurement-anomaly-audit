@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyc
+.Python
+env/
+venv/
+.venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Data
+/data/
+!data/.gitkeep
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/features/.gitkeep
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*.ipynb_checkpoints
+
+# Results
+results/
+*.csv
+*.xlsx
+*.png
+*.jpg
+*.pdf
+
+# Experiments
+experiments/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Models
+*.pkl
+*.joblib
+*.h5
+*.pt
+
+# pip-tools generated (regenerate with pip-compile)
+requirements.txt
+
+# Logs
+*.log
+logs/
+
+# Cache
+.cache/
+.pytest_cache/

@@ -1,0 +1,27 @@
+# Core Data Science
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+scipy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Notebook
+jupyter
+ipykernel
+ipywidgets
+
+# Utilities
+python-dateutil
+openpyxl
+tqdm
+
+# Code Quality
+black
+flake8
+pytest
