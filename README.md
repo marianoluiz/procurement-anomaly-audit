@@ -1,6 +1,6 @@
 # Isolation Forest Algorithm for Fraud Detection in Philippines' Public Procurement
 
-Bachelor's thesis project on anomaly detection and audit prioritization for Philippine public procurement data.
+Personal project on anomaly detection and audit prioritization for Philippine public procurement data.
 
 ## Repository Status
 
