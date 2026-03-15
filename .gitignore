@@ -13,12 +13,8 @@ ENV/
 dist/
 build/
 
-# Data
-/data/
-!data/.gitkeep
-!data/raw/.gitkeep
-!data/processed/.gitkeep
-!data/features/.gitkeep
+# Data (all local datasets and generated data artifacts)
+data/
 
 # Jupyter Notebook
 .ipynb_checkpoints
@@ -27,7 +23,6 @@ build/
 
 # Results
 results/
-*.csv
 *.xlsx
 *.png
 *.jpg
@@ -53,9 +48,6 @@ Thumbs.db
 *.joblib
 *.h5
 *.pt
-
-# pip-tools generated (regenerate with pip-compile)
-requirements.txt
 
 # Logs
 *.log
