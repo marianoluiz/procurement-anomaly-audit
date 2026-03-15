@@ -24,7 +24,6 @@ data/
 # Results
 results/
 *.xlsx
-*.png
 *.jpg
 *.pdf
 
