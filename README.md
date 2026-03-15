@@ -1,5 +1,7 @@
 # Isolation Forest Algorithm for Fraud Detection in Philippine Public Procurement
 
+![Results Preview](assets/img/results.png)
+
 Personal project on anomaly detection and audit prioritization for Philippine public procurement data.
 
 ## Repository Status
